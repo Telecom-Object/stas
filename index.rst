@@ -15,13 +15,12 @@ le raccordement au service.
 .. toctree::
    :maxdepth: 2
    :caption: Stas:
-
-    pages/constitution_du_service
-    pages/acces_dsl
-    pages/acces_efm
-    pages/mtu
-    pages/services
-    pages/eas
-    pages/glossaire
+   pages/constitution_du_service
+   pages/acces_dsl
+   pages/acces_efm
+   pages/mtu
+   pages/services
+   pages/eas
+   pages/glossaire
 
 
