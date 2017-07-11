@@ -14,7 +14,8 @@ le raccordement au service.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Stas:
+   :caption: Stas
+   
    pages/constitution_du_service
    pages/acces_dsl
    pages/acces_efm
