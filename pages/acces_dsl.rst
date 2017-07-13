@@ -13,7 +13,7 @@ de l’utilisateur et un DSLAM.
 Débits
 ~~~~~~
 
-.. image:: /images/01.png
+.. image:: ../images/01.png
 
 Pour sélectionner le VC “Best Effort” ou le VC d’un accès ADSL Mono-VC,
 les trames doivent emprunter les circuits:
@@ -49,7 +49,7 @@ Les accès VDSL sont livrés sans EAS, sur une interface cuivre.
 Débits
 ~~~~~~
 
-IMAGE ICI
+.. image:: ../images/02.png
 
 Les flux issus des sites extrémités sont transportés dans le VLAN
 d’accès jusqu’au DSLAM.
