@@ -13,7 +13,7 @@ de l’utilisateur et un DSLAM.
 Débits
 ~~~~~~
 
-IMAGE ICI
+.. image:: /images/01.png
 
 Pour sélectionner le VC “Best Effort” ou le VC d’un accès ADSL Mono-VC,
 les trames doivent emprunter les circuits:
