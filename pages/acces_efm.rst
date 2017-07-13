@@ -39,7 +39,7 @@ Le tableau ci-dessous précise les combinaisons possibles entre les
 caractéristiques (débit commercial, nombre de paires) de l’Accès SDSL ou
 SDSL bis ainsi que les débits Ethernet et débits ligne correspondants:
 
-IMAGE ICI
+.. image:: ../images/03.png
 
 Les débits Ethernet sont donnés pour des trames Ethernet de 1500 octets.
 
@@ -51,7 +51,7 @@ proposée pour un débit Ethernet > 2182 kbit/s par paire.
 Interface de Service sans EAS
 -----------------------------
 
-IMAGE ICI
+.. image:: ../images/04.png
 
 L’Interface de Service est un simple connecteur avec interface physique
 RJ 11 femelle. Dans le cas de la livraison d'un Accès sur une paire SDSL
@@ -109,7 +109,7 @@ Accès optiques
 Débits
 ~~~~~~
 
-IMAGE ICI
+.. image:: ../images/05.png
 
 Les débits Ethernet sont donnés pour des trames Ethernet de 1500 octets.
 
@@ -186,7 +186,7 @@ Afin de pouvoir différencier les Classes de Service en entrée de réseau,
 les trames Ethernet échangées doivent être obligatoirement marquées
 802.1p : Le champ dot1p peut prendre les valeurs suivantes:
 
-IMAGE ICI
+.. image:: ../images/06.png
 
 Le marquage DSCP des paquets IP n’est pas modifié au niveau de l’Accès.
 
@@ -197,7 +197,7 @@ Le coeur de réseau TELECOM OBJECT met en oeuvre une priorisation du
 trafic basée sur le champs Differentiated Services Code Point (DSCP)
 avec les valeurs suivantes:
 
-IMAGE ICI
+.. image:: ../images/07.png
 
 Profils de Cos
 --------------
@@ -225,4 +225,4 @@ associé parmi :
    100Mb/s. Le profil premium n’est pas proposé sur les Accès optique
    sans EAS au-delà de 100Mb/s.
 
-IMAGE ICI
+.. image:: ../images/08.png
